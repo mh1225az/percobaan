@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>selamat datang</h1>
+    <h1>selamat hay</h1>
     <h3>owner: {{$nama}}</h3>
 </body>
 </html>
